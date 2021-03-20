@@ -14,7 +14,7 @@
       class="textBox"
       :style="{ background : noteObj.color }"
       id="textarea"
-      placeholder="Enter Note Text"
+      placeholder="Enter Note Text Here"
       rows="3"
       max-rows="6"
     >
